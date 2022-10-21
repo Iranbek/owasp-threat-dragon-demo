@@ -1,14 +1,14 @@
 {
   "summary": {
-    "title": "Demo Threat Model",
-    "owner": "Mike Goodwin",
+    "title": "OWASP Threat Model",
+    "owner": "Iranbek Yelshibek",
     "description": "A sample model of a web application, with a queue-decoupled background process.",
     "id": 0
   },
   "detail": {
     "contributors": [
       {
-        "name": "Tom Brown"
+        "name": "Iranbek Yelshibek"
       }
     ],
     "diagrams": [
@@ -763,12 +763,12 @@
         }
       }
     ],
-    "reviewer": "Jane Smith"
+    "reviewer": "Iranbek Yelshibek"
   },
   "location": {
-    "organisation": "mike-goodwin",
+    "organisation": "iranbek-yelshibek",
     "repo": "owasp-threat-dragon-demo",
     "branch": "master",
-    "model": "Demo_Threat_Model_2"
+    "model": "OWASP_Threat_Model"
   }
 }
